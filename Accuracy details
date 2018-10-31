@@ -1,0 +1,7 @@
+Total accuracy
+For feature list: 96.9171603783
+For unigrams: 98.405
+
+Expectation of top 50 spam documents
+Feature list: 100%
+Unigrams: 100%
